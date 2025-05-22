@@ -3,6 +3,9 @@
 ## AIM:
 To create a warehouse application in salesforce.com
 
+### NAME : Karthick P
+### REG NO: 212222100021
+
 ## Procedure
 
 ### Types of Applications in SFDC
